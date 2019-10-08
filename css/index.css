@@ -1438,6 +1438,7 @@ footer.is-mobile {
 }
 a {
   color: #1b70b7;
+  text-decoration: none;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -1446,7 +1447,7 @@ a {
 }
 a:hover {
   color: #86c166;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a#site-name {
   text-decoration: none;
