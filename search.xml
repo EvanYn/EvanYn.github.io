@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>电脑必装软件推荐</title>
+      <link href="/2019/10/10/software-recommendation/"/>
+      <url>/2019/10/10/software-recommendation/</url>
+      
+        <content type="html"><![CDATA[<h2 id="什么是电脑和软件"><a class="markdownIt-Anchor" href="#什么是电脑和软件"></a> 什么是电脑和软件？</h2><p>推荐电脑要安装什么软件，首先得明白什么是电脑和软件。根据英文维基百科，电脑的定义：</p><blockquote><p>A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming.</p><p>翻译过来就是：<br>计算机（俗称电脑）是指可以通过计算机编程（computer programming, 也叫计算机程序设计）自动执行算术或逻辑运算序列的机器。</p></blockquote><a id="more"></a><p>软件的定义：</p><blockquote><p>Computer software, or simply software, is a collection of data or computer instructions that tell the computer how to work.</p><p>计算机软件，或简称软件，是告诉计算机如何工作的数据或计算机指令的集合。</p></blockquote><p>简单说来，电脑就是通过软件对数据进行运算（或计算）的机器。</p><p>因为人们有需求，比如要看图片、听歌、放视频。这些图片、音频、视频文件就是计算机要操作的数据；在屏幕上显示图片、对音视频进行解码以播放出来，就是计算机要进行的运算。程序员（programmer）通过编程（programming）开发出了软件（software），这些软件指导计算机进行这些运算以满足人们的需求。</p><p>比如下面一幅文件名为<code>crop.png</code>的图片<br><img src="https://jianshu-1300364030.cos.ap-chengdu.myqcloud.com/software-recommendation/crop.png" width="50%" height="50%" alt="crop.png" align="center"><br>在电脑看来，这幅图片就是一个如下图的二维矩阵<br><img src="https://jianshu-1300364030.cos.ap-chengdu.myqcloud.com/software-recommendation/crop_matrix.png" alt="crop.png对应的矩阵"><br>这个图像矩阵就是电脑要操作的数据，把这个矩阵在屏幕上以图片的形式显示出来，要进行运算，而程序员们开发出来的图片浏览器软件就是用来进行这种运算的。一个个不同的软件，分别对不同类型数据进行相应的运算，以满足人们日常的需求。</p><h2 id="软件推荐"><a class="markdownIt-Anchor" href="#软件推荐"></a> 软件推荐</h2><p>以下根据日常需求，推荐我比较喜欢的软件，至于每个软件的详细介绍、安装方法与具体用法，可以百度或去软件官网查询更多信息。</p><table><thead><tr><th>软件用途</th><th>名称</th><th style="text-align:center">使用频率</th><th style="text-align:center">使用难度</th><th>备注</th></tr></thead><tbody><tr><td>音视频播放器</td><td>PotPlayer</td><td style="text-align:center">高</td><td style="text-align:center">易</td><td></td></tr><tr><td>PDF 阅读器</td><td>福昕阅读器</td><td style="text-align:center">高</td><td style="text-align:center">易</td><td></td></tr><tr><td>词典</td><td>欧路词典</td><td style="text-align:center">高</td><td style="text-align:center">易</td><td>需学习如何加载电子词典</td></tr><tr><td>音乐播放器</td><td>网易云音乐</td><td style="text-align:center">高</td><td style="text-align:center">易</td><td></td></tr><tr><td></td><td></td><td style="text-align:center"></td><td style="text-align:center"></td><td></td></tr><tr><td>笔记</td><td>印象笔记</td><td style="text-align:center">高</td><td style="text-align:center">易</td><td></td></tr><tr><td>Markdown编辑器</td><td>Typora</td><td style="text-align:center">中</td><td style="text-align:center">中</td><td>需学习 markdown 语法</td></tr><tr><td>云存储</td><td>百度网盘</td><td style="text-align:center">高</td><td style="text-align:center">易</td><td>不开会员，需学习如何下载加速</td></tr><tr><td>下载工具</td><td>迅雷</td><td style="text-align:center">中</td><td style="text-align:center">易</td><td></td></tr><tr><td></td><td></td><td style="text-align:center"></td><td style="text-align:center"></td><td></td></tr><tr><td>文件搜索</td><td>Everything</td><td style="text-align:center">高</td><td style="text-align:center">易</td><td></td></tr><tr><td>压缩软件</td><td>360压缩</td><td style="text-align:center">高</td><td style="text-align:center">易</td><td></td></tr><tr><td>任务栏透明化</td><td>TranslucentTB</td><td style="text-align:center">高</td><td style="text-align:center">易</td><td></td></tr><tr><td>空格快速浏览文件</td><td>QuickLook</td><td style="text-align:center">高</td><td style="text-align:center">易</td><td></td></tr><tr><td></td><td></td><td style="text-align:center"></td><td style="text-align:center"></td><td></td></tr><tr><td>办公软件套装</td><td>Office(Word,Excel,PowerPoint)</td><td style="text-align:center">高</td><td style="text-align:center">难</td><td>必学</td></tr><tr><td>图像处理</td><td>Adobe Photoshop</td><td style="text-align:center">中</td><td style="text-align:center">难</td><td>推荐学习</td></tr><tr><td>视频编辑</td><td>Adobe Premiere</td><td style="text-align:center">低</td><td style="text-align:center">难</td><td></td></tr><tr><td>矢量图形处理</td><td>Adobe illustrator</td><td style="text-align:center">低</td><td style="text-align:center">难</td><td></td></tr><tr><td>PDF 编辑</td><td>Adobe Acrobat DC</td><td style="text-align:center">低</td><td style="text-align:center">中</td><td></td></tr><tr><td>流程图和示意图</td><td>Office Visio</td><td style="text-align:center">低</td><td style="text-align:center">中</td><td></td></tr></tbody></table><p>以上只是一些通用软件，更专门的软件，比如专用计算工具（比如 MATLAB, Mathematica ）、编程语言（比如 C/C++, Java, Python, R）开发工具、专用排版工具（比如 LaTeX）等以后有需要再学习。</p><h2 id="软件获取渠道"><a class="markdownIt-Anchor" href="#软件获取渠道"></a> 软件获取渠道</h2><p>对于开源免费软件，先去官网下载安装包。对于付费软件，推荐几个网站，去里面搜索软件名称即可：</p><ul><li><a href="https://www.luochenzhimu.com/" target="_blank" rel="noopener">落尘之木</a></li><li><a href="http://www.ypojie.com/" target="_blank" rel="noopener">易破解</a></li><li><a href="https://www.macxin.com/" target="_blank" rel="noopener">MAC 萌新网</a></li><li><a href="http://www.itxiaozhong.com/" target="_blank" rel="noopener">IT 小众</a></li></ul><p>另推荐电子书、视频资源网站：</p><ul><li><a href="https://www.jiumodiary.com/" target="_blank" rel="noopener">鸠摩搜书</a></li><li><a href="https://www.qzhou.com.cn/" target="_blank" rel="noopener">轻舟网</a></li><li><a href="http://www.xiaoso.net/" target="_blank" rel="noopener">小不点搜索</a></li></ul><p>更多资源网站可自己探索。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MacOS 通过 Hexo + GitHub 搭建个人网站</title>
       <link href="/2019/10/09/mac-hexo-blog/"/>
       <url>/2019/10/09/mac-hexo-blog/</url>
