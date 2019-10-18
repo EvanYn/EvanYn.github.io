@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yuangesheng.com/2019/10/01/why-blog/</loc>
+    <lastmod>2019-10-18</lastmod>
+  </url>  <url>
     <loc>http://yuangesheng.com/2019/10/14/array-narrowband-signal-model/</loc>
+    <lastmod>2019-10-17</lastmod>
+  </url>  <url>
+    <loc>http://yuangesheng.com/2019/10/01/Test/</loc>
     <lastmod>2019-10-14</lastmod>
   </url>  <url>
     <loc>http://yuangesheng.com/2019/10/11/mac-remove-anaconda/</loc>
@@ -12,8 +18,5 @@
   </url>  <url>
     <loc>http://yuangesheng.com/2019/10/09/mac-hexo-blog/</loc>
     <lastmod>2019-10-10</lastmod>
-  </url>  <url>
-    <loc>http://yuangesheng.com/2019/10/01/Test/</loc>
-    <lastmod>2019-10-07</lastmod>
   </url>
 </urlset>

@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yuangesheng.com/2019/10/01/why-blog/</loc>
+    
+    <lastmod>2019-10-18T12:05:39.650Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yuangesheng.com/2019/10/14/array-narrowband-signal-model/</loc>
     
-    <lastmod>2019-10-14T15:35:59.338Z</lastmod>
+    <lastmod>2019-10-17T13:18:23.885Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yuangesheng.com/2019/10/01/Test/</loc>
+    
+    <lastmod>2019-10-14T15:56:41.347Z</lastmod>
     
   </url>
   
@@ -47,13 +61,6 @@
     <loc>http://yuangesheng.com/tags/index.html</loc>
     
     <lastmod>2019-10-08T08:39:54.327Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yuangesheng.com/2019/10/01/Test/</loc>
-    
-    <lastmod>2019-10-07T08:54:57.053Z</lastmod>
     
   </url>
   
