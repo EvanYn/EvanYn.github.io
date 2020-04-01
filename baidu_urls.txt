@@ -1,7 +1,7 @@
-http://yuangesheng.com/2019/11/08/FFT-interpretation/
-http://yuangesheng.com/2019/10/21/matlab-complier/
-http://yuangesheng.com/2019/10/14/array-narrowband-signal-model/
-http://yuangesheng.com/2019/10/11/mac-remove-anaconda/
-http://yuangesheng.com/2019/10/10/software-recommendation/
-http://yuangesheng.com/2019/10/09/mac-hexo-blog/
-http://yuangesheng.com/2019/10/01/why-blog/
+https://yuangesheng.com/2019/11/08/FFT-interpretation/
+https://yuangesheng.com/2019/10/21/matlab-complier/
+https://yuangesheng.com/2019/10/14/array-narrowband-signal-model/
+https://yuangesheng.com/2019/10/11/mac-remove-anaconda/
+https://yuangesheng.com/2019/10/10/software-recommendation/
+https://yuangesheng.com/2019/10/09/mac-hexo-blog/
+https://yuangesheng.com/2019/10/01/why-blog/
