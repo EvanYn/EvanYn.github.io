@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://yuangesheng.com/2019/10/09/mac-hexo-blog/</loc>
+    <lastmod>2020-05-09</lastmod>
+  </url>  <url>
     <loc>https://yuangesheng.com/2020/04/18/MTI-interpretation/</loc>
     <lastmod>2020-05-08</lastmod>
   </url>  <url>
@@ -30,9 +33,6 @@
   </url>  <url>
     <loc>https://yuangesheng.com/2020/04/01/leetcode-26/</loc>
     <lastmod>2020-04-03</lastmod>
-  </url>  <url>
-    <loc>https://yuangesheng.com/2019/10/09/mac-hexo-blog/</loc>
-    <lastmod>2020-04-01</lastmod>
   </url>  <url>
     <loc>https://yuangesheng.com/2019/11/08/FFT-interpretation/</loc>
     <lastmod>2019-11-10</lastmod>
